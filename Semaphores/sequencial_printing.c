@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <sys/types.h>
 #include <pthread.h>
-#include <time.h>
 #include <unistd.h>
 
 #define N (5)
