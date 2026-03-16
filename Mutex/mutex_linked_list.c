@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
-#include <time.h>
 #include <unistd.h>
 
 typedef struct node_t{
